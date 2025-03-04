@@ -103,11 +103,11 @@ python3 tests/test_suite.py
    ```
 
 
-3. **משיכת הקונטיינר:**
+    3. **משיכת הקונטיינר:**
 
-   ```bash
-   docker pull amitbialik1/ocr-service:latest
-   ```
+    ```bash
+    docker pull amitbialik1/ocr-service:latest
+    ```
 
 ## פתרון בעיות
 
