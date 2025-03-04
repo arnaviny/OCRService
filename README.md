@@ -96,10 +96,17 @@ python3 tests/test_suite.py
    docker build -t ocr-service .
    ```
 
-2. **הרצת הקונטיינר:**
+   2. **הרצת הקונטיינר:**
 
    ```bash
    docker run -p 5000:5000 ocr-service
+   ```
+
+
+3. **משיכת הקונטיינר:**
+
+   ```bash
+   docker pull amitbialik1/ocr-service:latest
    ```
 
 ## פתרון בעיות
